@@ -3,7 +3,7 @@
 I'm a passionate web developer with a strong interest in building dynamic and user-friendly applications. My journey in web development is driven by a love for learning and a desire to create innovative solutions that make a difference.
 
 ## 🔧 Technologies & Tools
-- **Frontend:** React, Bootstrap, JavaScript, Jquery, TailwindCSS
+- **Frontend:** React, Bootstrap, Vue, Nuxt, Jquery, TailwindCSS
 - **Backend:** PHP, Laravel, Node.js
 - **Database:** MySQL
 - **DevOps:** Apache, Nginx, Git
