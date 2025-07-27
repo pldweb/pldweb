@@ -6,7 +6,7 @@ I'm a passionate web developer with a strong interest in building dynamic and us
 - **Frontend:** React, Bootstrap, Vue, Nuxt, Jquery, TailwindCSS
 - **Backend:** PHP, Laravel, Node.js
 - **Database:** MySQL
-- **DevOps:** Apache, Nginx, Git
+- **DevOps:** Apache, Nginx, Git, Docker
 - **Others:** API Development, RESTful Services, Object Storage
 
 ## 🌱 What I’m currently learning
